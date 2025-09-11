@@ -32,3 +32,6 @@ The Dataset is mentioned above in the main file . Which contain all the paramete
 - Matplotlib, Seaborn  
 - Scikit-learn
 
+<img width="523" height="909" alt="Screenshot 2025-09-11 150223" src="https://github.com/user-attachments/assets/a145512b-f5b2-4eb2-b65f-b11eddbaa802" />
+
+
