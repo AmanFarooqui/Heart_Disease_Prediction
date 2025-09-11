@@ -20,4 +20,9 @@ The Dataset is mentioned above in the main file . Which contain all the paramete
      - K-Nearest Neighbors (KNN)  
      - Decision Tree  
      - Support Vector Machine (SVM)  
-     - Naïve Bayes  
+     - Naïve Bayes
+
+4. *Model Evaluation*  
+   - Compared performance using Accuracy and F1-Score  
+   - Selected the best-performing model  
+
