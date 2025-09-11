@@ -24,5 +24,11 @@ The Dataset is mentioned above in the main file . Which contain all the paramete
 
 4. *Model Evaluation*  
    - Compared performance using Accuracy and F1-Score  
-   - Selected the best-performing model  
+   - Selected the best-performing model
+
+## 🛠 Tech Stack
+- Python  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Scikit-learn
 
